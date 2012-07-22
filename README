@@ -1,1 +1,5 @@
-This GitHub space is housing the Arduino code that I have developed or modified
+This is a basic program to set the internal clock of the Arduino by Serial input, 9600 baud and display the current time in Binary using 12 LEDs.
+
+This was designed and tested on an Arduino Uno R3.
+
+This code includes the Time.h provided by Arduino.cc (http://arduino.cc/playground/Code/Time)
