@@ -1,0 +1,11 @@
+This is a basic application that takes input from a Wii classic controller connected to A2-A5 analog inputs and outputs different Super Mario Bros sound effects by a Piezo speaker connected to pin 12.
+
+Hardware used:
+ - Arduino Uno R3
+ - Standard Piezo speaker
+ - Nunchucky (https://www.adafruit.com/products/345)
+
+Code credits:
+ - Notes.h                               Arduino.cc
+ - Code for melody creation (Modified)   Arduino.cc
+ - WiiClasic.h (Modified)                Tim Hirzel (http://growdown.blogspot.com/)
