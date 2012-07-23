@@ -1,0 +1,9 @@
+This is a basic application that uses the Arduino's internal clock to display the current time in binary format using LEDs.
+
+Hardware used:
+ - Arduino Uno R3
+ - 12 LEDs (1 Red, 6 Orange, 5 Green)
+ - 12 220-Ohm 1/4 Watt Resisters
+
+Code credits:
+ - Time.h                                Arduino.cc
